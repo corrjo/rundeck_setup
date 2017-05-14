@@ -6,7 +6,7 @@ This role is used to install a working rundeck, along with dependencies and the 
 Requirements
 ------------
 
-a linux debian machine using apt
+a linux machine 
 
 Role Variables
 --------------
